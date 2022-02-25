@@ -4,8 +4,8 @@
 
 * [Production Deployment](https://mj434-prod.herokuapp.com/)
 
-Develpoment test
-[![Development Workflow](https://github.com/kaw393939/docker_flask/actions/workflows/dev.yml/badge.svg)](https://github.com/kaw393939/docker_flask/actions/workflows/dev.yml)
+
+[![Production Workflow](https://github.com/mj434/flask_database/actions/workflows/prod.yml/badge.svg)](https://github.com/mj434/flask_database/actions/workflows/prod.yml)
 
 * [Developmental Deployment](https://mj434-dev.herokuapp.com/)
 
